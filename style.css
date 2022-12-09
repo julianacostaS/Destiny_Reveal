@@ -1,0 +1,63 @@
+* {
+  margin:0;
+}
+
+body {
+  background-color: black;
+  color:white;
+ text-align: center;
+ font-family: sans-serif;
+}
+
+#container {
+  margin-top: 100px;
+  width:80%;
+  max-width: 400px;
+  margin-inline: auto;
+}
+
+h1 {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  opacity:0.9;
+}
+
+p {
+margin-bottom: 40px;
+opacity: 0.7;
+line-height: 25px;;
+}
+
+input, button{
+  display:block;
+  width:100%;
+  padding:20px;
+  text-align:center;
+  border-radius: 5px;
+  font-size:20px;
+}
+
+button{
+  margin-top: 30px;
+  border:none;
+  color:white;
+  background-color: blueviolet;
+  transition: filter .3s;
+}
+
+button:hover{
+  filter:brightness(1.2);
+  cursor:pointer;
+}
+
+#answer {
+transition: opacity 1s;
+}
+
+#answer div {
+font-size: 16px;
+font-weight: normal;
+opacity: 0.9;
+margin-top: 25px;
+margin-bottom: 10px;
+}
