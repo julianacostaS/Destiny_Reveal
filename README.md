@@ -2,6 +2,8 @@
 
 This is a project part of a course by the company 'Rocketseat'. It is a simple application where the user can type a question and it will display random answers to those questions.
 
+[🔗 Click here to access it](https://julianacostas.github.io/Destiny_Reveal/)
+
 <p align="center">
   <img alt="Ecoleta" src="https://user-images.githubusercontent.com/49543157/206628584-38f77d87-bff3-47af-8677-cb44cdc966c0.png" width="100%">
 </p>
