@@ -10,8 +10,9 @@
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src="https://user-images.githubusercontent.com/49543157/206628973-87e3e0de-36d5-4ca0-bee2-5bc4218ef565.png" width="100%">
+  <img alt="Ecoleta" src="https://user-images.githubusercontent.com/49543157/206630257-870109a1-b086-4302-942c-40b0a055bac1.png" width="100%">
 </p>
+
 
 ## 🚀 Technologies
 
